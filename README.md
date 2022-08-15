@@ -15,3 +15,7 @@ Project developed: Treasure Island
 ## Day 004 - Randomisation and Lists
 
 Project developed: Rock Paper and Scissors
+
+## Day 005 - Python Loops
+
+Project developed: Password Generator
