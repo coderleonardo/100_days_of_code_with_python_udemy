@@ -19,3 +19,9 @@ Project developed: Rock Paper and Scissors
 ## Day 005 - Python Loops
 
 Project developed: Password Generator
+
+## Day 006 - Python Functions and Karel
+
+## Day 007 - Hangman Game
+
+Project developed: Hangman
