@@ -26,6 +26,6 @@ Project developed: Password Generator
 
 Project developed: Hangman
 
-## Day 008 - Ceasar Cipher
+## Day 008 - Caesar Cipher
 
-Project developed: Ceasar Cipher Algorithm
+Project developed: Caesar Cipher Algorithm
