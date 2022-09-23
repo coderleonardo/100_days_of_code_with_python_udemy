@@ -25,3 +25,7 @@ Project developed: Password Generator
 ## Day 007 - Hangman Game
 
 Project developed: Hangman
+
+## Day 008 - Ceasar Cipher
+
+Project developed: Ceasar Cipher Algorithm
