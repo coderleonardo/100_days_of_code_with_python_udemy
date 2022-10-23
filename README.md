@@ -29,3 +29,7 @@ Project developed: Hangman
 ## Day 008 - Caesar Cipher
 
 Project developed: Caesar Cipher Algorithm
+
+## Day 009 - The Secret Auction Program
+
+Project developed: Blind Auction
