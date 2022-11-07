@@ -33,3 +33,11 @@ Project developed: Caesar Cipher Algorithm
 ## Day 009 - The Secret Auction Program
 
 Project developed: Blind Auction
+
+## Day 010 - Function with outputs
+
+Project developed: Calculator
+
+## Day 016 - Object Oriented Programming (OOP)
+
+Project developed: Coffee Machine in OOP
