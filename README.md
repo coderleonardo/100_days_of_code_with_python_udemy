@@ -41,3 +41,7 @@ Project developed: Calculator
 ## Day 016 - Object Oriented Programming (OOP)
 
 Project developed: Coffee Machine in OOP
+
+## Day 017 - OOP: The Quiz
+
+Project developed: The Quiz
