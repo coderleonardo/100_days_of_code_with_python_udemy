@@ -38,3 +38,8 @@ if level < 5:
     new_enemy = enemies[0]
 
 print(new_enemy)
+
+# Global constants
+PI = 3.14 # upper case
+
+
