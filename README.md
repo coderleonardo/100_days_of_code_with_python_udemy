@@ -4,44 +4,46 @@ Repository with some projects developed during the course.
 
 My objective with this course is to review some concepts and mainly to understand in a deeper way some concepts about the Python language.
 
-## Day 001 - Working with Variables in Python
+## Content
 
-## Day 002 - Understanding Data Types
+- Day 001 - Working with Variables in Python
 
-## Day 003 - Control Flow and Logical Operators
+- Day 002 - Understanding Data Types
 
-Project developed: Treasure Island
+- Day 003 - Control Flow and Logical Operators
 
-## Day 004 - Randomisation and Lists
+	- Project developed: Treasure Island
 
-Project developed: Rock Paper and Scissors
+- Day 004 - Randomisation and Lists
 
-## Day 005 - Python Loops
+	- Project developed: Rock Paper and Scissors
 
-Project developed: Password Generator
+- Day 005 - Python Loops
 
-## Day 006 - Python Functions and Karel
+	- Project developed: Password Generator
 
-## Day 007 - Hangman Game
+- Day 006 - Python Functions and Karel
 
-Project developed: Hangman
+- Day 007 - Hangman Game
 
-## Day 008 - Caesar Cipher
+- Project developed: Hangman
 
-Project developed: Caesar Cipher Algorithm
+- Day 008 - Caesar Cipher
 
-## Day 009 - The Secret Auction Program
+	- Project developed: Caesar Cipher Algorithm
 
-Project developed: Blind Auction
+- Day 009 - The Secret Auction Program
 
-## Day 010 - Function with outputs
+	- Project developed: Blind Auction
 
-Project developed: Calculator
+- Day 010 - Function with outputs
 
-## Day 016 - Object Oriented Programming (OOP)
+	- Project developed: Calculator
 
-Project developed: Coffee Machine in OOP
+- Day 016 - Object Oriented Programming (OOP)
 
-## Day 017 - OOP: The Quiz
+	- Project developed: Coffee Machine in OOP
 
-Project developed: The Quiz
+- Day 017 - OOP: The Quiz
+
+	- Project developed: The Quiz
